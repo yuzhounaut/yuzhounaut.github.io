@@ -1,5 +1,3 @@
-# 丰迪生，博士
-
 ## 基本信息
 - **姓名**：丰迪生  
 - **性别**：男  
@@ -34,8 +32,6 @@
 
 
 ---
-
-# Feng Disheng, Ph.D.
 
 ## Basic Information
 - **Name**: Feng Disheng  
