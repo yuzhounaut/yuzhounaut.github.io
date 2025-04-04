@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Academic Pages"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ## 基本信息
 - **姓名**：丰迪生  
 - **性别**：男  
