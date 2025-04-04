@@ -1,19 +1,19 @@
----
 title: "Hepatic injury and metabolic perturbations in mice exposed to perfluorodecanoic acid revealed by metabolomics and lipidomics"
 collection: publications
 category: manuscripts
-permalink: 'publication/2024-12-03-PFDA'
-excerpt: ' '
+permalink: /publications/2024-12-03-PFDA  # 自定义站内路径
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0147651324015513'
 date: 2024-12-03
 venue: 'Ecotoxicology and Environmental Safety'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0147651324015513'
-citation: '&quot;Hepatic injury and metabolic perturbations in mice exposed to perfluorodecanoic acid revealed by metabolomics and lipidomics.&quot; <i>Ecotoxicology and Environmental Safety</i>. 289, 117475.'
 ---
 
 <head>
   <meta http-equiv="refresh" content="0; url='{{ page.paperurl }}'">
   <link rel="canonical" href="{{ page.paperurl }}" />
+  <script>
+    window.location.href = "{{ page.paperurl }}";
+  </script>
 </head>
 <body>
-  <p>Redirecting to the publication... <a href="{{ page.paperurl }}">Click here</a> if not redirected.</p>
+  <p>This publication explores hepatic injury and metabolic changes in mice exposed to perfluorodecanoic acid. Redirecting to the publication... <a href="{{ page.paperurl }}">Click here</a> if not redirected.</p>
 </body>
