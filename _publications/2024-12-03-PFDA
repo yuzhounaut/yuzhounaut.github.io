@@ -9,12 +9,11 @@ venue: 'Ecotoxicology and Environmental Safety'
 ---
 
 <head>
-  <meta http-equiv="refresh" content="0; url='{{ page.paperurl }}'">
   <link rel="canonical" href="{{ page.paperurl }}" />
-  <script>
-    window.location.href = "{{ page.paperurl }}";
-  </script>
 </head>
 <body>
-  <p>This publication explores hepatic injury and metabolic changes in mice exposed to perfluorodecanoic acid. Redirecting to the publication... <a href="{{ page.paperurl }}">Click here</a> if not redirected.</p>
+  <h1><a href="{{ page.paperurl }}">{{ page.title }}</a></h1>
+  <p><strong>Venue:</strong> {{ page.venue }}<br>
+     <strong>Date:</strong> {{ page.date }}</p>
+  <p>This publication explores hepatic injury and metabolic changes in mice exposed to perfluorodecanoic acid. Click the title above to access the full paper.</p>
 </body>
