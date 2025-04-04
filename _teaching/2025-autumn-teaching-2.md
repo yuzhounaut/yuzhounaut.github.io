@@ -4,7 +4,7 @@ collection: teaching
 type: "to be filled"
 permalink: /teaching/2025-autumn-teaching-2
 venue: "to be filled"
-date: 2025-09-10
+date: 2025-01-01
 location: "福州, 中国"
 ---
 
