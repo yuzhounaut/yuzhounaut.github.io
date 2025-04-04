@@ -25,7 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Disheng Feng"
   pronouns         : #"he"
-  bio              : "Mass spectrometry" "Machine learning"
+  bio              : - "Mass spectrometry"
+  - "Machine learning"
   location         : "Earth"
   employer         : "Fujian University of Traditional Chinese Medicine"
   uri              : # URL
