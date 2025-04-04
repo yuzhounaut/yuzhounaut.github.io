@@ -10,3 +10,10 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0147651324015513'
 citation: '&quot;Hepatic injury and metabolic perturbations in mice exposed to perfluorodecanoic acid revealed by metabolomics and lipidomics.&quot; <i>Ecotoxicology and Environmental Safety</i>. 289, 117475.'
 ---
 
+<head>
+  <meta http-equiv="refresh" content="0; url='{{ page.paperurl }}'">
+  <link rel="canonical" href="{{ page.paperurl }}" />
+</head>
+<body>
+  <p>Redirecting to the publication... <a href="{{ page.paperurl }}">Click here</a> if not redirected.</p>
+</body>
