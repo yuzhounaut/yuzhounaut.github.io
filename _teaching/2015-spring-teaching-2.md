@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "to be filled"
 collection: teaching
-type: "Workshop"
+type: "to be filled"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "to be filled"
+date: 2025-01-01
+location: "福州, 中国"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
