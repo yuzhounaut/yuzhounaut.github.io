@@ -3,8 +3,8 @@ permalink: /
 title: "Academic Pages"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /blog/
+  - /blog.html
 ---
 ## 基本信息
 - **姓名**：丰迪生  
