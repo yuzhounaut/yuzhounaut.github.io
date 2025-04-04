@@ -7,13 +7,3 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0147651324015513'
 date: 2024-12-03
 venue: 'Ecotoxicology and Environmental Safety'
 ---
-
-<head>
-  <link rel="canonical" href="{{ page.paperurl }}" />
-</head>
-<body>
-  <h1><a href="{{ page.paperurl }}">{{ page.title }}</a></h1>
-  <p><strong>Venue:</strong> {{ page.venue }}<br>
-     <strong>Date:</strong> {{ page.date }}</p>
-  <p>This publication explores hepatic injury and metabolic changes in mice exposed to perfluorodecanoic acid. Click the title above to access the full paper.</p>
-</body>
