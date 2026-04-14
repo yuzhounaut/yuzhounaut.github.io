@@ -30,4 +30,5 @@ redirect_from:
 
 ## 科研项目
 ### 主持项目
-1. 单细胞及其分泌物中代谢物高覆盖分析策略研究及其应用（X2024005-人才）
+1. Scientific Research Foundation for the High-level Talents, Fujian University of Traditional Chinese Medicine (Grant No. X2024005-talents)
+2. Natural Science Foundation of Fujian Province (Grant No. 2025J01929)
